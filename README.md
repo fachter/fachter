@@ -1,58 +1,44 @@
-### Hi there 👋
+# Hi there, I'm Felix! 👋
 
+### 🚀 Senior Data & Machine Learning Engineer
 
-I recently completed the Master's programme "Artificial Intelligence & Extended Reality” at the University of Würzburg and I am currently looking for a job as Machine Learning Engineer in Copenhagen.
+**Location:** Copenhagen, Denmark 🇩🇰  
+**Job:** @Halfspace  
+**Education:** M.Sc. Artificial Intelligence & Extended Reality (University of Würzburg)
 
-- 🔭 I’m currently working on two projects, which I might combine in the future:
-  - The first one is a chatbot-like application with LangChain and Hugging Face, specifically to ask questions about the content of a webpage
-  - The second one is a CV-generator, in which the first one might be integrated to assist analyzing a company and their job offers and writing the cover letter
-- 🖥️ Preferred tech stack:
-  - Deep Learning: Python & PyTorch ( & Polars for data processing)
-  - Backend Development: Python & FastAPI / Java & Spring Boot
-  - Frontend Development: Angular 2+
-  - DB: PostgreSQL / MongoDB
-- 📬 You can reach me on LinkedIn: [felix-achter-2b2745213](https://www.linkedin.com/in/felix-achter-2b2745213/)
-- 👨🏼‍💻 Tech Skils:
-  - ML / AI:
-    - Deep Learning (FNN, CNN, RNN, Transformer) 
-    - Deep Metric Learning
-    - Classical approaches supervised & unsupervised (KMeans, KNN, Random Forest, SVM ...)
-  - ML Libraries:
-    - PyTorch
-    - Scikit-Learn
-    - Pandas
-    - Polars
-    - Matplotlib
-    - Seaborn
-    - LangChain
-    - Hugging Face
-    - OpenCV
-  - Ops:
-    - Docker
-    - Kubernetes
-  - Programming Languages / Frameworks:
-    - Expert:
-      - Python
-      - FastAPI
-      - Flask
-      - Java
-      - Spring Boot
-      - Angular 2+
-    - Advanced:
-      - C#
-      - Unity
-      - PHP
-      - Symfony
-      - Vue
-    - Intermediate:
-      - Go
-      - React 
-    - Beginner:
-      - Rust
-      - C++
-  - Databases:
-    - PostgreSQL
-    - MongoDB
-    - MySQL / MariaDB
-    - MSSQL 
-    
+---
+
+### 🔭 Current Projects
+
+- **Dev Setup Optimization**: I'm currently refining my development environment using NeoVim, Zellij, and opencode, focusing on terminal-centric productivity and efficient multitasking. (check out the [dev-setup repo](https://github.com/fachter/dev-setup) if you're intereseted)
+- **Full Stack**: Improving my React skills by building a private project for my brother
+
+---
+
+### 🛠 Tech Stack & Expertise
+
+| Category | Skills |
+| :--- | :--- |
+| **ML & AI** | Deep Learning (Transformers, CNN, RNN), Deep Metric Learning, Scikit-Learn |
+| **Data Engineering** | **PySpark**, **Databricks**, **Azure Data Factory**, Polars, Pandas |
+| **Cloud & DevOps** | **GCP**, **AWS**, **Azure**, **Terraform**, Docker, Kubernetes |
+| **Backend** | Python (FastAPI, Flask), Java (Spring Boot) |
+| **Frontend** | Angular 2+, Vue, React |
+| **Databases** | PostgreSQL, MongoDB, MySQL, MSSQL, Firestore |
+
+---
+
+### 👨🏼‍💻 Detailed Proficiency
+
+#### **Languages & Frameworks**
+* **Expert:** Python (FastAPI, Flask), Java (Spring Boot), Angular 2+
+* **Advanced:** C#, Unity, PHP, Symfony, Vue
+* **Intermediate/Beginner:** Go, React, Rust, C++
+
+#### **ML & Ops Tooling**
+* **LLM Orchestration:** DSPy, LangChain, Hugging Face
+* **Infrastructure as Code:** Terraform
+* **Computer Vision & Viz:** OpenCV, Matplotlib, Seaborn
+
+---
+* **LinkedIn:** [felix-achter-2b2745213](https://www.linkedin.com/in/felix-achter-2b2745213/)
